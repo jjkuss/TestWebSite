@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c01b783c-bec4-47f7-97b2-31b6520e2584" name="Default" comment="" />
+    <list default="true" id="c01b783c-bec4-47f7-97b2-31b6520e2584" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rpl-page/page-layout-main.html" afterPath="$PROJECT_DIR$/rpl-page/page-layout-main.html" />
+    </list>
     <ignored path="GitProjectDeux.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,20 +26,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="page-layout-main.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="page-layout-main.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/rpl-page/page-layout-main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.0" vertical-offset="36" max-vertical-offset="1972">
-              <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+            <state vertical-scroll-proportion="0.37162837" vertical-offset="36" max-vertical-offset="1989">
+              <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="new-page.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="new-page.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rpl-page/new-page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.16765286" vertical-offset="0" max-vertical-offset="1014">
+            <state vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="272">
               <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
               <folding />
             </state>
@@ -52,8 +54,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/rpl-page/page-layout-main.html" />
         <option value="$PROJECT_DIR$/rpl-page/new-page.html" />
+        <option value="$PROJECT_DIR$/rpl-page/page-layout-main.html" />
       </list>
     </option>
   </component>
@@ -234,18 +236,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rpl-page/page-layout-main.html">
+    <entry file="file://$PROJECT_DIR$/rpl-page/new-page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.0" vertical-offset="36" max-vertical-offset="1972">
-          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+        <state vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="272">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rpl-page/new-page.html">
+    <entry file="file://$PROJECT_DIR$/rpl-page/page-layout-main.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16765286" vertical-offset="0" max-vertical-offset="1014">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.37162837" vertical-offset="36" max-vertical-offset="1989">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
           <folding />
         </state>
       </provider>
